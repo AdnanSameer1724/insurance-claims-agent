@@ -2,7 +2,7 @@
 
 A lightweight Python agent that automatically processes FNOL (First Notice of Loss) documents by extracting key information, validating fields, and intelligently routing claims to appropriate workflows.
 
-## 🎯 Features
+##  Features
 
 - **PDF Text Extraction**: Extracts structured data from insurance claim PDFs
 - **Smart Field Detection**: Uses regex patterns to identify and extract key claim information
@@ -14,17 +14,17 @@ A lightweight Python agent that automatically processes FNOL (First Notice of Lo
   - Specialist queue for injury claims
 - **JSON Output**: Structured output format for easy integration
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.8+
 - Dependencies listed in `requirements.txt`
 
-## 🚀 Installation
+##  Installation
 
 ### Step 1: Clone or Download the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AdnanSameer1724/insurance-claims-agent>
 cd insurance-claims-agent
 ```
 
@@ -47,7 +47,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 📖 Usage
+##  Usage
 
 ### Basic Usage
 
@@ -99,7 +99,7 @@ python test_processor.py
 }
 ```
 
-## 🔧 How It Works
+##  How It Works
 
 ### 1. Field Extraction
 
@@ -156,7 +156,7 @@ The agent applies these rules in order:
    - Estimated damage < $25,000 → Fast-Track
    - Estimated damage ≥ $25,000 → Standard Processing
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 insurance-claims-agent/
@@ -166,7 +166,7 @@ insurance-claims-agent/
 └── README.md               # This file
 ```
 
-## 🧪 Testing
+##  Testing
 
 ### Test with Sample Document
 
@@ -184,7 +184,7 @@ To test with additional FNOL documents:
 python claims_processor.py path/to/your/fnol.pdf
 ```
 
-## 📊 Routing Examples
+##  Routing Examples
 
 ### Example 1: Fast-Track
 ```
@@ -214,7 +214,7 @@ Route: Manual Review
 Reason: Missing mandatory fields
 ```
 
-## 🔍 Key Implementation Details
+##  Key Implementation Details
 
 ### Pattern Matching
 The agent uses regex patterns to extract fields from unstructured text. Multiple patterns are used for each field to handle variations in document formats.
@@ -229,14 +229,14 @@ The code is structured to make it easy to:
 - Add new claim types
 - Integrate with external systems
 
-## 🛠️ Customization
+##  Customization
 
 ### Modify Routing Threshold
 
 Edit `claims_processor.py`:
 
 ```python
-FAST_TRACK_THRESHOLD = 30000  # Change from 25000
+FAST_TRACK_THRESHOLD = 30000 
 ```
 
 ### Add Fraud Keywords
@@ -277,22 +277,22 @@ MANDATORY_FIELDS = [
 - Web interface for easier use
 - OCR for scanned documents
 
-## 📝 Notes
+##  Notes
 
 - The agent is designed to be lightweight and fast
 - All processing is done locally (no external API calls in base version)
 - Output is in JSON format for easy integration with other systems
 - The code includes extensive comments for educational purposes
 
-## 🤝 Contributing
+##  Contributing
 
 This is an assessment project, but suggestions for improvements are welcome!
 
-## 📄 License
+##  License
 
 This project was created as part of a technical assessment for Synapx.
 
-## 👤 Author
+##  Author
 
 **Adnan**
 - Assessment for Junior Software Developer role at Synapx
