@@ -1,0 +1,7 @@
+# Core dependencies
+# Note: If network is available, uncomment and install these:
+# pymupdf==1.23.8
+# pdfplumber==0.10.3
+
+# For local development without network:
+# Use built-in libraries or pre-installed packages

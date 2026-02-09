@@ -1,0 +1,101 @@
+AUTOMOBILE LOSS NOTICE DATE (MM/DD/YYYY)
+
+POLICY NUMBER: POL-2024-ABC123
+CARRIER NAIC CODE: 12345
+LINE OF BUSINESS: Auto Insurance
+
+NAME OF INSURED (First, Middle, Last): John Michael Doe
+INSURED'S MAILING ADDRESS: 123 Main Street, Springfield, IL 62701
+DATE OF BIRTH: 05/15/1980
+
+AGENCY
+NAME: Springfield Insurance Agency
+CONTACT: Sarah Johnson
+PHONE: 555-123-4567
+E-MAIL: sarah.johnson@springfield-insurance.com
+
+DATE OF LOSS AND TIME: 01/25/2024 2:30 PM
+
+LOCATION OF LOSS
+STREET: 456 Oak Avenue at intersection with Elm Street
+CITY, STATE, ZIP: Springfield, IL 62702
+COUNTRY: USA
+
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: SPD-2024-001234
+
+DESCRIPTION OF ACCIDENT:
+Vehicle collision occurred at the intersection of Oak Avenue and Elm Street. The insured vehicle was proceeding through a green light when another vehicle ran a red light and struck the driver's side door. Significant damage to driver's side panel and door. Airbags deployed. No injuries reported at the scene.
+
+INSURED VEHICLE
+
+VEH # 1
+YEAR: 2020
+MAKE: Honda
+MODEL: Civic
+BODY: Sedan
+TYPE: Passenger Vehicle
+V.I.N.: 1HGBH41JXMN109186
+PLATE NUMBER: IL ABC1234
+STATE: Illinois
+
+DRIVER'S NAME AND ADDRESS: John Michael Doe (same as insured)
+OWNER'S NAME AND ADDRESS: John Michael Doe (same as insured)
+
+RELATION TO INSURED: Self
+PURPOSE OF USE: Personal/Commute
+DRIVER'S LICENSE NUMBER: D123-4567-8901
+STATE: IL
+DATE OF BIRTH: 05/15/1980
+USED WITH PERMISSION: Y/N - N/A (Owner)
+
+DESCRIBE DAMAGE:
+Driver's side door severely damaged, front driver's side panel dented, driver's side mirror broken, window shattered. Airbag deployment. Frame damage suspected.
+
+ESTIMATE AMOUNT: $18,500.00
+WHERE CAN VEHICLE BE SEEN: Joe's Auto Body Shop, 789 Repair Lane, Springfield IL
+WHEN CAN VEHICLE BE SEEN: Monday-Friday 8:00 AM - 5:00 PM
+
+OTHER INSURANCE ON VEHICLE
+CARRIER: None
+POLICY NUMBER: N/A
+
+CHILD PASSENGER RESTRAINT SYSTEM
+1. WAS A STANDARD CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) INSTALLED IN THE VEHICLE AT THE TIME OF THE ACCIDENT? Y / N: N
+2. WAS THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) IN USE BY A CHILD DURING THE TIME OF THE ACCIDENT? Y / N: N
+3. DID THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) SUSTAIN A LOSS AT THE TIME OF THE ACCIDENT? Y / N: N
+
+OTHER VEHICLE / PROPERTY DAMAGED
+
+VEH # 2
+YEAR: 2018
+MAKE: Toyota
+MODEL: Camry
+PLATE NUMBER: IL XYZ9876
+STATE: Illinois
+
+DRIVER'S NAME AND ADDRESS: Jane Smith, 999 Pine Street, Springfield IL 62703
+PHONE: 555-987-6543
+
+OTHER VEH/PROP INS: Y
+CARRIER OR AGENCY NAME: State Farm
+POLICY NUMBER: SF-2024-789456
+
+DESCRIBE PROPERTY: Front bumper and hood damaged on other vehicle
+
+WITNESSES OR PASSENGERS
+
+WITNESS 1:
+NAME & ADDRESS: Robert Brown, 111 Cherry Lane, Springfield IL
+PHONE: 555-246-8100
+RELATIONSHIP: Pedestrian witness
+
+INJURED: N
+EXTENT OF INJURY: None
+
+REMARKS:
+Claim filed on 01/26/2024. Police report obtained. No injuries to insured or passengers. Other driver cited for running red light. Seeking full repair coverage and diminished value claim.
+
+REPORTED BY: John Doe (Insured)
+REPORTED TO: Springfield Insurance Agency
+DATE REPORTED: 01/26/2024
